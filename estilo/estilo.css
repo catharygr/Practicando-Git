@@ -1,3 +1,23 @@
 body {
     background: pink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    font-size: 2rem;
+}
+.container {
+    background-color: aqua;
+    padding: 2em 3em;
+    box-shadow:  0 0 20px 5px gray;
+    border-radius: 1em;
+
+}
+h1 {
+    margin: 0;
+}
+p {
+    margin: 0;
 }
